@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hoge: MyString
+  fuga: MyString
+  piyo: MyText
+
+two:
+  hoge: MyString
+  fuga: MyString
+  piyo: MyText
