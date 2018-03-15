@@ -3,4 +3,5 @@ Rails.application.routes.draw do
   
   resources:posts
   resources:letters
+  root 'letters#index'
 end
